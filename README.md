@@ -1,7 +1,7 @@
 # UniversityFoodOrderingSystem 
 contributors with choonjie, florence and ginger
 
-For Java Assignment
+For Java Assignment mainly focuses on how to use OO concept to implement in Java
 
 ALL User
 
