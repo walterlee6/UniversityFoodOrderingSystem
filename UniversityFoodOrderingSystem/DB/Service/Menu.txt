@@ -1,0 +1,6 @@
+M001,nasi lemak,5.0,spicy rice,V002
+M002,water,1.0,ice water,V002
+M003,ice lemon tea,5.0,ice lemon tea,V002
+M004,roti canai,5.0,roti canai,V002
+M005,spegetti,50.0,noodles,V002
+M006,a,12.0,hi,V002

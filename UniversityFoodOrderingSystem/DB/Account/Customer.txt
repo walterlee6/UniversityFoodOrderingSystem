@@ -1,0 +1,6 @@
+C001,MUM,mum123,mum@gmail.com,0001223423,671.0
+C002,walter,walter,walter@gmail.com,12334553456,11.0
+C003,lct,lct,lct,0123456789,0.0
+C004,lct,123456789,lct@gmail.com,0,0.0
+C006,Chui,Chui,chui@gmail.com,013984872,20.0
+C007,a,t,w,p,41.0

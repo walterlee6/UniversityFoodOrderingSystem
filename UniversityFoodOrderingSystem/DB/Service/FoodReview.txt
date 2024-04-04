@@ -1,0 +1,6 @@
+F001,O001,V002,2023-12-09,5,good
+F002,O002,V002,2023-12-09,3,goodgood
+F003,O003,V002,2023-12-09,3,goodgoodgood
+F004,O004,V002,2023-12-09,3,goodgoodgoodgood
+F005,O005,V002,2023-12-09,3,goodgoodgoodgoodgood
+F006,O006,V002,2023-12-09,3,goodgoodgoodgoodgoodgood

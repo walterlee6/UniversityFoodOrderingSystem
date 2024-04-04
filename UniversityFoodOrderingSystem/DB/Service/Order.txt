@@ -1,0 +1,19 @@
+O001,M002,water,1,1.0,Done,2023-02-10,1.0,Dine-in,V002,C003,R001
+O002,M004,roti canai,1,5.0,Done,2023-02-10,5.0,Take Away,V002,C003,R001
+O003,M001,nasi lemak,1,5.0,Delivered,2023-02-10,5.0,Delivery,V002,C003,R001
+O004,M005,spegetti,1,50.0,Delivered,2023-10-10,55.0,Delivery,V002,C003,R001
+O004,M003,ice lemon tea,1,5.0,Delivered,2023-10-10,55.0,Delivery,V002,C003,R001
+O005,M001,nasi lemak,1,5.0,Done,2023-12-05,66.0,Dine-in,V002,C003,R001
+O005,M002,water,1,1.0,Done,2023-12-05,66.0,Dine-in,V002,C003,R001
+O005,M003,ice lemon tea,1,5.0,Done,2023-12-05,66.0,Dine-in,V002,C003,R001
+O005,M004,roti canai,1,5.0,Done,2023-12-05,66.0,Dine-in,V002,C003,R001
+O005,M005,spegetti,1,50.0,Done,2023-12-05,66.0,Dine-in,V002,C003,R001
+O006,M003,ice lemon tea,1,5.0,Pending,2023-12-10,5.0,Dine-in,V002,C003,R001
+O009,M001,nasi lemak,1,5.0,Cancelled,2023-12-10,5.0,Dine-in,V002,C003,R001
+O007,M002,water,1,1.0,Done,2023-12-10,1.0,Dine-in,V002,C003,R001
+O008,M004,roti canai,1,5.0,Done,2023-12-10,5.0,Dine-in,V002,C003,R001
+O010,M004,roti canai,1,5.0,Pending,2023-12-10,7.0,Take Away,V002,C001,R001
+O011,M001,nasi lemak,1,5.0,Pending,2023-12-10,11.0,Delivery,V002,C001,R001
+O011,M002,water,1,1.0,Pending,2023-12-10,11.0,Delivery,V002,C001,R001
+O012,M004,roti canai,1,5.0,Pending,2023-12-10,7.0,Take Away,V002,C001,R001
+O013,M003,ice lemon tea,2,5.0,Pending,2023-12-11,12.0,Take Away,V002,null,R001
